@@ -1,6 +1,7 @@
 {
   "name": "project_assignment2_nguyentrunghieu_s3479766_shopping_online",
   "version": "0.1.0",
+  "homepage": "https://Tunguyens3608114.github.io/projectclient.git/",
   "main": "index.js",
   "dependencies": {
     "ajv": "^6.5.2",
